@@ -81,4 +81,4 @@ async def main():
 
 
 #  Starte das Programm
-asyncio,run(main())
+asyncio.run(main())
